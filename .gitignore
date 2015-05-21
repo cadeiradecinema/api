@@ -1,0 +1,17 @@
+# Java class files
+*.class
+ 
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+ 
+# Gradle
+.gradletasknamecache
+.gradle/
+build/
+bin/
+
+# OSX
+.DS_Store
